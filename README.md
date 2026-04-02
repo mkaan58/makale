@@ -1,4 +1,4 @@
-# AkademiX
+# Makalemix
 
 Profesyonel Akademik Çeviri Landing Page
 

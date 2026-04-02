@@ -7,14 +7,14 @@ export default function Footer() {
           <div style={{ width: 28, height: 28, background: "linear-gradient(135deg,#C4A360,#E8C87A)", borderRadius: 6, display: "flex", alignItems: "center", justifyContent: "center" }}>
             <span style={{ color: "#0A0E1E", fontSize: 12, fontWeight: 700, fontFamily: "'Playfair Display',serif" }} aria-hidden="true">A</span>
           </div>
-          <span style={{ color: "#F5F0E8", fontFamily: "'Playfair Display',serif", fontWeight: 700, fontSize: 17 }}>AkademiX</span>
+          <span style={{ color: "#F5F0E8", fontFamily: "'Playfair Display',serif", fontWeight: 700, fontSize: 17 }}>Makalemix</span>
           <span style={{ color: "#2E2B42", fontFamily: "'DM Sans',sans-serif", fontSize: 13, marginLeft: 8 }}>Profesyonel Akademik Çeviri</span>
         </div>
 
         {/* Nav links */}
         <nav aria-label="Footer menü">
           <div style={{ display: "flex", gap: 28 }}>
-            {[["KVKK", "#"], ["Gizlilik Politikası", "#"], ["İletişim", "mailto:info@akademix.com.tr"]].map(([item, href]) => (
+            {[["KVKK", "#"], ["Gizlilik Politikası", "#"], ["İletişim", "mailto:info@Makalemix.com.tr"]].map(([item, href]) => (
               <a
                 key={item}
                 href={href}
@@ -29,7 +29,7 @@ export default function Footer() {
         </nav>
 
         {/* Copyright */}
-        <span style={{ color: "#1E1C30", fontFamily: "'DM Mono',monospace", fontSize: 12 }}>© 2026 AkademiX</span>
+        <span style={{ color: "#1E1C30", fontFamily: "'DM Mono',monospace", fontSize: 12 }}>© 2026 Makalemix</span>
       </div>
     </footer>
   );

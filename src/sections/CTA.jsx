@@ -28,7 +28,7 @@ export default function CTA() {
             </p>
             <div style={{ display: "flex", gap: 16, justifyContent: "center", flexWrap: "wrap" }}>
               <a
-                href="mailto:info@akademix.com.tr?subject=Makale%20Çeviri%20Talebi"
+                href="mailto:info@Makalemix.com.tr?subject=Makale%20Çeviri%20Talebi"
                 style={{ background: "linear-gradient(135deg,#C4A360,#E8C87A)", color: "#0A0E1E", padding: "16px 40px", borderRadius: 10, fontFamily: "'DM Sans',sans-serif", fontWeight: 700, fontSize: 17, textDecoration: "none", boxShadow: "0 8px 32px rgba(196,163,96,0.3)", display: "inline-flex", alignItems: "center", gap: 10, transition: "all 0.2s" }}
                 onMouseEnter={e => e.currentTarget.style.transform = "translateY(-2px)"}
                 onMouseLeave={e => e.currentTarget.style.transform = "translateY(0)"}

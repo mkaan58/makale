@@ -5,7 +5,7 @@ const items = [
     name: "Dr. Ayşe K.",
     role: "Doçent · Eğitim Bilimleri",
     uni: "Ankara Üniversitesi",
-    text: "SSCI dergisinde kabul aldım. Hakemlerin 'excellent English' yorumu için AkademiX'e çok teşekkürler.",
+    text: "SSCI dergisinde kabul aldım. Hakemlerin 'excellent English' yorumu için Makalemix'e çok teşekkürler.",
     journal: "Computers & Education",
   },
   {

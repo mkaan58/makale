@@ -67,7 +67,7 @@ function Navbar() {
           <div style={{ width: 32, height: 32, background: "linear-gradient(135deg, #C4A360, #E8C87A)", borderRadius: 6, display: "flex", alignItems: "center", justifyContent: "center" }}>
             <span style={{ color: "#0A0E1E", fontSize: 14, fontWeight: 700, fontFamily: "'Playfair Display', serif" }} aria-hidden="true">A</span>
           </div>
-          <span style={{ color: "#F5F0E8", fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: 20 }}>AkademiX</span>
+          <span style={{ color: "#F5F0E8", fontFamily: "'Playfair Display', serif", fontWeight: 700, fontSize: 20 }}>Makalemix</span>
         </div>
         <div style={{ display: "flex", gap: 28, alignItems: "center" }}>
           {[["Hizmetler","#hizmetler"],["Süreç","#surec"],["Fiyatlar","#fiyatlar"],["Örnek","#ornek"]].map(([item, href]) => (
