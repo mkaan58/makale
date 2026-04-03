@@ -14,7 +14,7 @@ export default function Footer() {
         {/* Nav links */}
         <nav aria-label="Footer menü">
           <div style={{ display: "flex", gap: 28 }}>
-            {[["KVKK", "#"], ["Gizlilik Politikası", "#"], ["İletişim", "mailto:info@Makalemix.com.tr"]].map(([item, href]) => (
+            {[["KVKK", "#"], ["Gizlilik Politikası", "#"], ["İletişim", "mailto:mustafang4858@gmail.com"]].map(([item, href]) => (
               <a
                 key={item}
                 href={href}
