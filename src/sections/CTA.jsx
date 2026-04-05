@@ -36,14 +36,14 @@ export default function CTA() {
                 Ücretsiz Teklif Al
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden="true"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
               </a>
-              <a
+              {/* <a
                 href="https://wa.me/905078926144"
                 style={{ border: "1px solid rgba(196,163,96,0.3)", color: "#C4A360", padding: "16px 40px", borderRadius: 10, fontFamily: "'DM Sans',sans-serif", fontWeight: 600, fontSize: 17, textDecoration: "none", background: "rgba(196,163,96,0.05)", display: "inline-flex", alignItems: "center", gap: 10, transition: "background 0.2s" }}
                 onMouseEnter={e => e.currentTarget.style.background = "rgba(196,163,96,0.1)"}
                 onMouseLeave={e => e.currentTarget.style.background = "rgba(196,163,96,0.05)"}
               >
                 <span style={{ fontSize: 20 }} aria-hidden="true">💬</span> WhatsApp
-              </a>
+              </a> */}
             </div>
             <p style={{ fontFamily: "'DM Mono',monospace", fontSize: 12, color: "#2E2B42", marginTop: 24 }}>
                ⏱ Yanıt süresi: maks. 30 dakika
