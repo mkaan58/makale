@@ -126,7 +126,8 @@ export default function Calculator() {
                     ))}
                   </div>
                 </div>
-                <a
+<a
+                  id="conversion-dosyami-gonder" 
                   href="https://wa.me/905078926144"
                   style={{ background: "linear-gradient(135deg, #C4A360, #E8C87A)", color: "#0A0E1E", padding: "15px 34px", borderRadius: 10, fontFamily: "'DM Sans',sans-serif", fontWeight: 700, fontSize: 15, textDecoration: "none", display: "inline-flex", alignItems: "center", gap: 8, boxShadow: "0 8px 24px rgba(196,163,96,0.25)", transition: "all 0.2s", whiteSpace: "nowrap" }}
                   onMouseEnter={e => e.currentTarget.style.transform = "translateY(-2px)"}
